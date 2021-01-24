@@ -4,4 +4,4 @@ Feature: Todos created should be available in both Active tab and All tab
   When open todo homepage
   And create todo items
   Then verify that todos created are listed in the Active tab and All tab
-  And close browser
+  And close browser sample
