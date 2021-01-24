@@ -3,4 +3,4 @@ Feature: Todo Logo
     Given launch chrome browser
     When open Todo homepage
     Then verify that the logo present on page
-    And close browser new
+    And close browser new updated
